@@ -26,7 +26,7 @@ experience of working on projects for achieving organizational goals.
 - 🔭 I’m currently working on *MERN Stack*
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 - 💬 Ask me about React, Node, JavaScript, HTML, CSS, DSA 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XHSC_9uV9gIYn0tKD9i228nZJFXalDlE/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ccqc_5_OvS8xFbEd-2rYp6ouMtCYUxrB/view?usp=sharing" target="_blank">Resume</a>
 
 📫 How to reach me: sajay9885@gmail.com<br>
 
