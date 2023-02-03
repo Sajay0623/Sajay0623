@@ -28,8 +28,6 @@ experience of working on projects for achieving organizational goals.
 - 💬 Ask me about React, Node, JavaScript, HTML, CSS, DSA 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ccqc_5_OvS8xFbEd-2rYp6ouMtCYUxrB/view?usp=sharing" target="_blank">Resume</a>
 
-📫 How to reach me: sajay9885@gmail.com<br>
-
 <h3 align="left">Connect with me:</h3>
 <ul>
 <li>
