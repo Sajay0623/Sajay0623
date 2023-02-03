@@ -76,6 +76,21 @@ experience of working on projects for achieving organizational goals.
 
 ![](https://github-profile-trophy.vercel.app/?username=Sajay0623&column=-1&theme=chalk&rank=-?&margin-w=25)
 </div>
+<hr/>
+<div align="center">
+  <a href="https://github.com/Sajay0623">
+    <span>
+      <img
+        alt=""
+        align="center"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajay0623&theme=github_dark"
+      />
+    </span>
+  </a>
+</div>
+
+ 
+<hr/>
 <br/>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
