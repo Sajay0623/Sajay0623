@@ -33,7 +33,7 @@ experience of working on projects for achieving organizational goals.
 <li>
   <a href="https://www.linkedin.com/in/ajay-s-611b8623a/" target="blank">Linkedin</a></li>
   <li>
-    <a href="https://github.com/Sajay0623/Sajay0623.github.io" target="blank">Portfolio</a>
+    <a href="https://sajay0623.github.io/" target="blank">Portfolio</a>
   </li>
 </ul>
 
