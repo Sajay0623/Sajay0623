@@ -35,6 +35,10 @@ experience of working on projects for achieving organizational goals.
   <li>
     <a href="https://sajay0623.github.io/" target="blank">Portfolio</a>
   </li>
+ <li>
+    <a href="https://twitter.com/Sajay9885" target="blank">Twitter</a>
+  </li>
+
 </ul>
 
 
